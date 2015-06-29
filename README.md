@@ -1,0 +1,1 @@
+A simple program that allows the user to tweet remotely. Requires a file called "accessTokens.txt" This file contains the Consumer Key, Consumer Secret, Access Token, and Access Token Secret on 4 seperate lines.
